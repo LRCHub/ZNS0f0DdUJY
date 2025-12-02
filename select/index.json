@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "mabataki",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-02T10:38:41.438122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "Miracle Chimpanzee",
+      "has_synced": true,
+      "path": "select/01_Mabataki_Miracle_Chimpanzee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "mabataki",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/02_mabataki_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/03_Mabataki_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "mabataki",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_mabataki_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/05_Mabataki_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_Mabataki_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瞬き - Mabataki",
+      "artist": "Miracle Chimpanzee",
+      "has_synced": true,
+      "path": "select/07_瞬き_-_Mabataki_Miracle_Chimpanzee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/08_Mabataki_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "19",
+      "has_synced": false,
+      "path": "select/09_Mabataki_19.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mabataki",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/10_Mabataki_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mabataki",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_mabataki_Vaundy.txt"
+    }
+  ]
+}
